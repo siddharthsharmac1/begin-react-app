@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-hello_world",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
